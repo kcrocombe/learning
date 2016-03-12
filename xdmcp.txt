@@ -1,0 +1,10 @@
+# This file defines the host list for the XDMCP Broadcast startup mode.
+
+# Lines which start with a # as well as blank lines are ignored.
+
+# At most one symbolic host name or constant address may be specified per line.
+# At most one symbolic host name or constant address may be specified per line.
+35.54.32.61	gold013b
+10.52.193.120	starr
+22.122.174.5	gbrdsr000001109
+22.122.178.206	gbrdsr000001917
